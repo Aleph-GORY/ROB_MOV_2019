@@ -1,0 +1,8 @@
+prefix=/home/gory/rob_mov/rviz/devel
+
+Name: mesa
+Description: Description of mesa
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/gory/rob_mov/rviz/devel/lib 
+Requires: 

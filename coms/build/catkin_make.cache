@@ -1,0 +1,2 @@
+servicio:topico
+-DCATKIN_DEVEL_PREFIX=/home/gory/rob_mov/coms/devel -DCMAKE_INSTALL_PREFIX=/home/gory/rob_mov/coms/install -G Unix Makefiles

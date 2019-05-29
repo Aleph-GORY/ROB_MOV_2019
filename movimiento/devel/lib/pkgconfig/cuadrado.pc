@@ -1,0 +1,8 @@
+prefix=/home/gory/rob_mov/movimiento/devel
+
+Name: cuadrado
+Description: Description of cuadrado
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/gory/rob_mov/movimiento/devel/lib 
+Requires: 

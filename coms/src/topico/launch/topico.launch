@@ -1,0 +1,4 @@
+<launch>
+  <node pkg="topico" name="publicador" type="publicador.py"/>
+  <node pkg="topico" name="suscriptor" type="suscriptor.py" output = "screen"/>
+</launch>

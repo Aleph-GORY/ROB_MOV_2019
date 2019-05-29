@@ -1,0 +1,8 @@
+prefix=/home/gory/rob_mov/coms/install
+
+Name: servicio
+Description: Description of servicio
+Version: 0.0.0
+Cflags: -I/home/gory/rob_mov/coms/install/include
+Libs: -L/home/gory/rob_mov/coms/install/lib 
+Requires: message_runtime

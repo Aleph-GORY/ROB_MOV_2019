@@ -1,0 +1,2 @@
+kobuki:kobuki_auto_docking:kobuki_bumper2pc:kobuki_controller_tutorial:kobuki_core:kobuki_description:kobuki_dock_drive:kobuki_driver:kobuki_ftdi:kobuki_keyop:kobuki_node:kobuki_random_walker:kobuki_rapps:kobuki_safety_controller:kobuki_soft/kobuki_soft:kobuki_soft/kobuki_softapps:kobuki_soft/kobuki_softnode:kobuki_testsuite
+-DCATKIN_DEVEL_PREFIX=/home/gory/rob_mov/kobuki/devel -DCMAKE_INSTALL_PREFIX=/home/gory/rob_mov/kobuki/install -G Unix Makefiles

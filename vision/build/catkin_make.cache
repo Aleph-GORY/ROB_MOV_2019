@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/gory/rob_mov/vision/devel -DCMAKE_INSTALL_PREFIX=/home/gory/rob_mov/vision/install -G Unix Makefiles

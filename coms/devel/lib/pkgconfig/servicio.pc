@@ -1,0 +1,8 @@
+prefix=/home/gory/rob_mov/coms/devel
+
+Name: servicio
+Description: Description of servicio
+Version: 0.0.0
+Cflags: -I/home/gory/rob_mov/coms/devel/include
+Libs: -L/home/gory/rob_mov/coms/devel/lib 
+Requires: message_runtime

@@ -1,0 +1,2 @@
+mesa:salon
+-DCATKIN_DEVEL_PREFIX=/home/gory/rob_mov/rviz/devel -DCMAKE_INSTALL_PREFIX=/home/gory/rob_mov/rviz/install -G Unix Makefiles

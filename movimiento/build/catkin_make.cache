@@ -1,0 +1,2 @@
+circulo:cuadrado:nav_campos:tcuadrado
+-DCATKIN_DEVEL_PREFIX=/home/gory/rob_mov/movimiento/devel -DCMAKE_INSTALL_PREFIX=/home/gory/rob_mov/movimiento/install -G Unix Makefiles

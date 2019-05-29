@@ -1,0 +1,8 @@
+prefix=/home/gory/rob_mov/movimiento/install
+
+Name: tcuadrado
+Description: Description of tcuadrado
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/gory/rob_mov/movimiento/install/lib 
+Requires: 

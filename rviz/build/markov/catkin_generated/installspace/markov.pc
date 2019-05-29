@@ -1,0 +1,8 @@
+prefix=/home/gory/rob_mov/rviz/install
+
+Name: markov
+Description: Description of markov
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/gory/rob_mov/rviz/install/lib 
+Requires: 
